@@ -1,6 +1,3 @@
-![unnamed](https://github.com/user-attachments/assets/8e17c079-77c0-4b7f-8884-d1e938171a9a)
-
-
 <!--
 **Shashankh001/Shashankh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
