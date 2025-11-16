@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 <img width="1775" height="797" alt="preview" src="https://github.com/user-attachments/assets/84b74039-b929-4263-808c-bc0beaa05b66" />
 
-<h3>⚠️All my repositories are currently private while they’re under development. Please check back later.⚠️</h3>
+<h3>⚠️ All my repositories are currently private while they’re under development. Please check back later.</h3>
